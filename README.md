@@ -7,16 +7,10 @@ Steps to run the Project.
 
 2) Installing Requirements
 
-        pip install -r requirements.txt
+        pip install -r req.txt
         
 
 3) Finally run the Project
 
         python main.py
 
-
-4) specific query 
-       
-  a) GO inside main.py file and write query="custom text here" under **if __name__ == '__main__':** 
-  
-        python main.py
